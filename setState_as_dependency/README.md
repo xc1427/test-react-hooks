@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Observation
+setState will not change on subsequence render.
+
 ## Available Scripts
 
 In the project directory, you can run:

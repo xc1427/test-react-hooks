@@ -1,5 +1,5 @@
 {
-  "name": "test-hook-dep",
+  "name": "setState_as_dependency",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
